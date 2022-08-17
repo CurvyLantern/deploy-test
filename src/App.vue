@@ -17,3 +17,6 @@
 </script>
 
 <style lang="scss" scoped></style>
+
+<!-- dist
+dist-ssr -->
